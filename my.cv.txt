@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Curriculum vitae</title>
+</head>
+<body>
+	<!--HEADER-->
+	<header>
+		<div>
+			<h1>Curriculum vitae</h1>
+			<img src="C:\Users\admin\Desktop\IMG_3669.JPG" height="300">
+			<h2><small>Karpa Nestor</small></h2>
+			<p>22 Molodizhna Str., Pustomyty district, Lviv region 81100
+			<br>
+			Mobile: 097 79 31 979
+			<br>
+			e-mail: nestor.kolt@gmail.com
+			</p>
+			<hr>
+		</div>
+	</header>
+	<!--/HEADER-->
+	<!--MAIN-->
+	<main>
+		<div>
+				<p>
+					<b>Personal information:</b> 
+					<br>
+						Date of birth 29/06/1987 in Lviv. Registered in Pustomyty, Lviv region.
+					<br>
+					<b>Education:</b> 
+					<br>
+						September, 2004 — June, 2009 
+						Ivan Franko National University of Lviv 
+						Law faculty, Specialist of Law
+					<br>
+					<b>Professional experience:</b>
+					<br>
+					October 2013 – December 2015 Lawyer KAMETMASH, Ltd. (Kyiv)
+					<br>
+					Responsibilitie:
+				
+					<ul>
+						<li>legal arrangement of commercial activities of the company;</li>
+						<li>legal arrangement of foreign trade activities;</li>
+						<li>putting into operation of industrial objects (lines) in the State Architectural-Construction Inspection of Ukraine;</li>
+					</ul>
+						October 2012 – April 2013 Law Firm “Logush, Borsuk, Bronfman and Kalyshevych”(Lviv)
+					<br>
+						Responsibilitie:
+					<ul>
+						<li>pre-trial negotiations and resolution of disputes</li>
+						<li>preparation and submission of court procedural documents</li>
+						<li>representation of clients’ (natural and legal persons) interests in the courts</li>
+					</ul>	
+					<b>Languages:</b>
+					<ul>
+						<li>Ukrainian — native</li>
+						<li>English — pre intermediate</li>
+						<li>Serbian - intermediate</li>
+					</ul>
+				</p>
+
+
+
+		</div>
+	</main>
+	<!--/MAIN-->
+
+</body>
+</html>
